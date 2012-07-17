@@ -1,5 +1,4 @@
-
-	In computer science, a cache is a component that transparently stores data so that future requests for that data can be served faster. In the last years this system has become more and more appreciated by web developers who use caching systems to optimize the performance of their web applications. In PHP, some of the most common cache engine are APC, memcache, memcached...
+In computer science, a cache is a component that transparently stores data so that future requests for that data can be served faster. In the last years this system has become more and more appreciated by web developers who use caching systems to optimize the performance of their web applications. In PHP, some of the most common cache engine are APC, memcache, memcached...
 
 ## Why BrennoCache?
 
